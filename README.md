@@ -1,0 +1,1 @@
+# ts-ajv-json-schema
